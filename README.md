@@ -96,7 +96,7 @@ If only Python 3.14 appears:
 -V:3.14 Python 3.14.x
 ```
 
-Install Python again using the provided installer.
+Install Python 3.12 again using the Python official installer.
 
 During installation:
 
