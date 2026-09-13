@@ -90,10 +90,10 @@ If Python 3.12 exists, no installation is required.
 
 ## 5. Install Python (If Required)
 
-If only Python 3.12 appears:
+If only Python 3.14 appears:
 
 ```
--V:3.12 Python 3.12.x
+-V:3.14 Python 3.14.x
 ```
 
 Install Python again using the provided installer.
